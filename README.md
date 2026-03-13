@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Renan guilherme santana dos santos]
+# 👋 Olá, eu sou Renan guilherme santana dos santos
 
 🎓 Estudante da Aprendizagem em programador de sistema informação  
 💻 Interessado em tecnologia, programação e inovação  

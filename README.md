@@ -1,6 +1,10 @@
 # 👋 Olá, eu sou Renan guilherme santana dos santos
 
-🎓 Estudante da Aprendizagem em programador de sistema informação  
+🎓 Estudante da Aprendizagem em programador de sistema informação.(SENAI) contratado pele impressa grupo farenzena 
+🎓 Estudante do 7°ano de escola CMEISV 2026.
+
+
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
